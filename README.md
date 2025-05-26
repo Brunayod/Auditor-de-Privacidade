@@ -10,7 +10,7 @@
   <img src="./assets/screenshots/initial-screen.png" width="400">
 </div>
 
-> Linha adicional de texto informativo: O Sentinel é uma extensão que atua como guardião da sua privacidade online, identificando e alertando sobre dados sensíveis expostos em páginas web.
+> O Sentinel é uma extensão que atua como guardião da sua privacidade online, identificando e alertando sobre dados sensíveis expostos em páginas web.
 
 ## 🔧 Ajustes e melhorias
 
